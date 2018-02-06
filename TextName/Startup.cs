@@ -9,6 +9,8 @@ namespace TextName
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
+            //写代码
+            string a = "1";
         }
     }
 }

@@ -16,6 +16,8 @@ namespace TextName
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+            //写代码
+            string a = "1";
         }
     }
 }
