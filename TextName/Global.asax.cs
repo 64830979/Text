@@ -19,6 +19,7 @@ namespace TextName
             //写代码
             string a = "1";
             string b = "1";
+            string c = "1";
         }
     }
 }
