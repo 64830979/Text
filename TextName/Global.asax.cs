@@ -18,6 +18,7 @@ namespace TextName
             BundleConfig.RegisterBundles(BundleTable.Bundles);
             //写代码
             string a = "1";
+            string b = "1";
         }
     }
 }
