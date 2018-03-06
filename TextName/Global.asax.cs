@@ -20,6 +20,7 @@ namespace TextName
             string a = "1";
             string b = "1";
             string c = "1";
+            string d = "1";
         }
     }
 }
